@@ -14,7 +14,7 @@ library(tidyverse)
 # mpg data frame found in ggplot2 ----
 library(ggplot2)
 ggplot2::mpg
-view()
+view(mpg)
 str(mpg)
 head(mpg)
 ?mpg # or 
