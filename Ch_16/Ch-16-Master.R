@@ -308,7 +308,7 @@ summary(cravens_model_2)
 # How can we find a regression that fits best?
 # One approach is to compute all possible regressions and compare them.
 # But doing so involves a great amount of computation and review.
-# For Cravens data with 8 IVs, 255 (2^8-1) different  regression equations exist
+# For Cravens data with 8 IVs, 255 (2^8-1) different regression equations exist
 # Statisticians prefer a more systematic approach called variable selection procedure.
 
 # Section 7 Variable Selection: Best-Subsets Regression (RegData Dataset) ----
