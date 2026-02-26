@@ -1,6 +1,6 @@
 # Clear the environment and set the working directory ----
 rm(list = ls())
-setwd("~/Documents/5504 Spring 2025/Ch_17")
+setwd("~/Documents/5504 Spring 2026/Ch_17")
 
 # 17-7 ----
 # method a TTR package
